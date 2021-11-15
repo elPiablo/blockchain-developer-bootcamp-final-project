@@ -18,6 +18,7 @@ They will be able to withdraw seeds and pay with the same token type in return.
 
 There will be an account holder (seed bank) responsible for authorising the authenticity and storage of the physical seeds and activating the token payment to the grower.
 
+Inspiration and further reading:
 
 what’s in a seed...https://en.wikipedia.org/wiki/Heirloom_plant
 
