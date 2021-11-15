@@ -1,5 +1,3 @@
-blockchain-developer-bootcamp-final-project
-
 Seeds for all Seasons – a digital representation of a barter bank for organic food seeds.
 
 I see public goods being intertwined with the world we live in. We share this space with and depend upon so much more than our own species and I believe we urgently need to reconvene our awareness to this simple law of nature. 
