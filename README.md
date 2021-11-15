@@ -16,10 +16,10 @@ They will be able to withdraw seeds and pay with the same token type in return.
 There will be an account holder (seed bank) responsible for authorising the authenticity and storage of the physical seeds and activating the token payment to the grower.
 
 
-what’s in a seed...https://en.wikipedia.org/wiki/Seed_saving#Legality
+what’s in a seed...https://en.wikipedia.org/wiki/Heirloom_plant
 
 inspiration...http://www.navdanya.org/site/living-seed/navdanya-seed-banks
 
-the law on sharing - patent, punish, profit...https://en.wikipedia.org/wiki/Heirloom_plant
+the law on sharing - patent, punish, profit...https://en.wikipedia.org/wiki/Seed_saving#Legality
 
 talk at the top...https://www.fao.org/resilience/resources/resources-detail/en/c/278935/
