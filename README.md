@@ -11,8 +11,11 @@ I believe the following lending itself to the need for blockchain technology. Ho
 The app would seek to record and represent the storage of different types of unmanipulated organic and heirloom seeds. There are a lot of projects in different parts of the world using seed banks as a means of coordination and seeds as a token of barter. So the app will simply represent this ‘work flow’ on the ground in its most basic form, and as an open template for future collaboration and development.
 
 Workflow
+
 A grower (user) will be able to register and deposit a new seed variety and be paid tokens in return. 
+
 They will be able to withdraw seeds and pay with the same token type in return. 
+
 There will be an account holder (seed bank) responsible for authorising the authenticity and storage of the physical seeds and activating the token payment to the grower.
 
 
