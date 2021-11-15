@@ -4,7 +4,7 @@ I see public goods being intertwined with the world we live in. We share this sp
 
 Healthy soil is the basis for life on Earth as we know it. Seeds are the primary basis for human sustenance. Food security depends on seed security of farming communities and growers. 
 
-I believe the following lending itself to the need for blockchain technology. However it remains to be seen if the access control aspect lends itself to a consortium type blockchain, or a public blockchain with app generated KYC for user accountability. We need to ensure the integrity of the stars of this endeavour, the seeds.
+I believe the following lending itself to the need for blockchain technology. However it remains to be seen if the access control aspect lends itself to a consortium type blockchain, or a public blockchain with application generated KYC for user accountability. We need to ensure the integrity of the stars of this endeavour, the seeds.
 
 The app would seek to record and represent the storage of different types of unmanipulated organic and heirloom seeds. There are a lot of projects in different parts of the world using seed banks as a means of coordination and seeds as a token of barter. So the app will simply represent this ‘work flow’ on the ground in its most basic form, and as an open template for future collaboration and development.
 
