@@ -17,6 +17,9 @@ There will be an account holder (seed bank) responsible for authorising the auth
 
 
 what’s in a seed...https://en.wikipedia.org/wiki/Seed_saving#Legality
+
 inspiration...http://www.navdanya.org/site/living-seed/navdanya-seed-banks
+
 the law on sharing - patent, punish, profit...https://en.wikipedia.org/wiki/Heirloom_plant
+
 talk at the top...https://www.fao.org/resilience/resources/resources-detail/en/c/278935/
