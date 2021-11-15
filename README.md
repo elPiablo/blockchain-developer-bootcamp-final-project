@@ -12,11 +12,11 @@ The app would seek to record and represent the storage of different types of unm
 
 Workflow
 
-A grower (user) will be able to register and deposit a new seed variety and be paid tokens in return. 
+    • A grower (user) will be able to register and deposit a new seed variety and be paid tokens in return. 
 
-They will be able to withdraw seeds and pay with the same token type in return. 
+    • They will be able to withdraw seeds and pay with the same token type in return. 
 
-There will be an account holder (seed bank) responsible for authorising the authenticity and storage of the physical seeds and activating the token payment to the grower.
+    • There will be an account holder (seed bank) responsible for authorising the authenticity and storage of the physical seeds and activating the token payment to the grower.
 
 Inspiration and further reading:
 
